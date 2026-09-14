@@ -41,4 +41,4 @@ Table B25070: Gross Rent as a Percentage of Household Income in the Past 12 Mont
 
 ## Dashboard
 
-View the interactive Tableau dashboard: **[Add Tableau Public Link]**
+View the interactive Tableau Dashboard: https://public.tableau.com/views/NycRentBurdenAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
